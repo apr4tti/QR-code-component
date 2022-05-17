@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+
+h3 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    width: 85%;
+    margin: 7.5%;
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    width: 85%;
+    margin: 7.5%;
+    padding-bottom: 30px;
+}
+
+.main {
+    width: 300px;
+    position: relative;
+    margin: auto;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 3%;
+}
+
+.qr-image {
+    object-fit: contain;
+    justify-content: center;
+    position: relative;
+    width: 90%;
+    height: 100%;
+    margin: 5%;
+    border-radius: 3%;
+}
