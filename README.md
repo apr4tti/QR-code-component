@@ -1,2 +1,2 @@
 # QR-code-component
-Frontend Mentor Projecti - Solved using HTML + CSS
+Frontend Mentor Project - Solved using HTML + CSS
